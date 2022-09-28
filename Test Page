@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+	
+<!--This is a test page-->
+<head>
+	
+	<!--Start of Google Font link-->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Abel&display=swap" rel="stylesheet">
+	<!--End of Google Font link-->
+	
+	<meta charset="utf-8">
+	
+	<link rel="stylesheet" type="text/css" href="./style01/style01-b.css">
+	<link rel="icon" type="image/x-icon" href="./Assets/Images/Favicon.ico">
+
+	<title >Carya Illnoinesis - Pie</title>
+
+	</head>
+
+	<body>
+	
+		<header>
+			
+		<nav class="Nav_Bar">
+				
+			<a href="./index01.html"><img src="./Assets/Images/Icon.jpg" alt="Icon.jpg" width="50" height="50" align="justify"></a>
+			
+				<a href="./NL1.html" target="_blank"><h4 id="Nav">Nav Link 1</h4></a>
+	
+				<a href="./NL2.html" target="_blank"><h4 id="Nav">Nav Link 2</h4></a>
+	
+				<a href="./NL3.html" target="_blank"><h4 id="Nav">Nav Link 3</h4></a>
+		
+			</nav>
+			
+		</header>
+		<div id="T1">
+		
+			<h1 >We Will Be Right Back!</h1></div>
+		
+		<p></p>
+		
+		<div id="T1">
+			
+			<h2>Here's an Allegreto by Gioanchino Rossini</h2></div>
+		
+		<p></p>
+		
+		<div id="T1">
+			
+			<h3>Un rien</h3></div>
+		
+		<p></p>
+		
+		<div id="T1">
+			
+			<h4>1860</h4></div>
+		
+		<p></p>
+		
+		<div id="T1">
+			
+			<h5>Played By Alessandro Marangoni</h5></div>
+		
+		<p></p>
+		
+		<div id="T1">
+			
+			<h6>Copyright: Naxos Records, part of the Naxos Music Group</h6></div>
+		
+		<p></p>
+		
+		<main>
+			
+
+				
+				<figure id="fig_2">
+				
+					<iframe id="iframe" width="560" height="315" src="https://www.youtube.com/embed/hm46VLzV_Ow" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>Video Not Supported</iframe>
+				</figure>
+			</section>
+		
+		</main>
+	
+	</body>
+	
+	<footer>
+		
+		<h3>Web Page Creator: B.D.B</h3>
+		
+		<h3>Email: <a href="">Brent.D.Burgess@gmail.com</a></h3>
+	
+	</footer>
+
+</html>
