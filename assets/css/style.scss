@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "{{
 
 *	{
 	border: 1px solid red;
@@ -174,3 +174,4 @@ a{
 a:hover{
 	color: green;
 }
+}}";
