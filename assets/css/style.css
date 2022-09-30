@@ -161,7 +161,7 @@ footer {
 }
 
 .example_1 {
-	overflow-wrap: break-word;
+	overflow-wrap: anywhere;
 	text-align: left;
 	margin-left: 0px;
 }
