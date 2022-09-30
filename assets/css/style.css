@@ -155,14 +155,15 @@ footer {
 }
 
 #aside_1 {
-	overflow-wrap: normal;
+	overflow-wrap: break-word;
 	text-align: left;
 	line-height: 3.76;
 }
 
 .example_1 {
-  text-align: left;
-  margin-left: 0px;
+	overflow-wrap: break-word;
+	text-align: left;
+	margin-left: 0px;
 }
 
 .example_2 {
