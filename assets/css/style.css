@@ -1,7 +1,3 @@
-/*	{
-	border: 1px solid red;
-}*/
-
  /*begin comment. implementing this code will reset all box modeling throughout. using this code make each box will remain fixed in both height and width. border-box is standard amongst web-builders */
 
 *	{ 
