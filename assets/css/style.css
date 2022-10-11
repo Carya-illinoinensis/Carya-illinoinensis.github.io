@@ -15,7 +15,7 @@ body {
 
 nav {
 	width: 100%;
-	height: 105px;
+	height: 95px;
 	top: 0px;
 	left: 0px;
 	background-color: black;
@@ -23,6 +23,12 @@ nav {
 	z-index: 1;
 	position: fixed;
 	text-emphasis-color: white;
+}
+
+nav input{
+	background-color: black;
+	color: white;
+	opacity: .85;
 }
 
 header h4 {
@@ -51,6 +57,11 @@ footer {
 	top: 20px;
 }
 
+
+#article_1 p{
+	background-color: white;
+}
+
 #article_2 p{
 	background-color: white;
 	border: dotted black 1px;
@@ -65,7 +76,7 @@ footer {
 	border: dotted black 1px;
 	border-radius: 5px;
 	opacity:.5;
-	margin: 200px 10px 10px 10px;
+	margin: 30px 10px 10px 10px;
 	padding: 2px 2px;
 	max-width: 20px;
 	min-width: 15px;
@@ -140,33 +151,38 @@ footer {
 	height: 300px;
 	width: 550px;
 	border: none;
-	padding: 10px 10px 10px 10px;
+	padding: 1px 10px 10px 10px;
 	border-radius: 8%;
-	margin: 0 auto;
+	margin: 0px 0px 0px 0px;
 }
 
 
 #fig_2 {
 	text-align: center;
-	margin: 10px 0px 0px 0px;
+	margin: 1px 0px 0px 0px;
 	padding: 0px;
 	position: relative;
 	text-align: fixed;
 }
 
 #aside_1 {
-	overflow-wrap: break-word;
+	overflow-wrap: normal;
 	text-align: left;
 	line-height: 3.76;
 }
 
 .example_1 {
-	overflow-wrap: anywhere;
+	margin-top: 125px;
+	overflow-wrap: break-word;
 	text-align: left;
-	margin-left: 0px;
 }
 
 .example_2 {
+	overflow-wrap: break-word;
+	text-align: left;
+}
+
+.example_3 {
 	margin-left: 0px;
 	padding: 15px;
 	color: white;
