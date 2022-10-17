@@ -95,7 +95,7 @@ header h4 {
 	margin: 118px 0px 0px 0px;
 	border-top: 2px black solid;
 	border-left: 2px black solid;
-	border-right: 2px black solid;
+	border-right: 0px black solid;
 	border-bottom: 0px;
 }
 
@@ -111,8 +111,10 @@ header h4 {
 	margin-top: 2px;
 	margin-bottom: 0%;
 	margin-right: 0px;
-	width: 100%;
+	width: 99.8%;
 	border: 3px black inset;
+	border-top: 0px;
+	border-left: 0px;
 	border-right: 0px;
 	padding-left: 4px;
 	background: linear-gradient(105deg, rgba(255,255,255,.2) 5%, rgba(51,56,57,1) 10%) center center, grey;
@@ -127,7 +129,7 @@ header h4 {
 	margin: 0px 0px 0px 0px;
 	border-top: 2px black solid;
 	border-left: 2px black solid;
-	border-right: 2px black solid;
+	border-right: 0px black solid;
 	border-bottom: 0px;
 }
 
@@ -136,8 +138,10 @@ header h4 {
 	margin-top: 2px;
 	margin-bottom: 0%;
 	margin-right: 0px;
-	width: 100%;
+	width: 99.8%;
 	border: 3px black inset;
+	border-top: 0px;
+	border-left: 0px;
 	border-right: 0px;
 	padding-left: 4px;
 }
