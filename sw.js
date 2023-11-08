@@ -13,10 +13,10 @@ self.addEventListener("install", e => {
       return cache.addAll([
         "/", 
         "/assets/style.css",
-        "/assets/glitch.css",
-        "/assets/gallery.css",
+        "./glitch.css",
+        "./gallery.css",
         "./menu.css",
-        "/assets/custom-theme.css"
+        "./custom-theme.css"
       ]);
     })
   );
