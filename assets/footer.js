@@ -1,5 +1,5 @@
-import { html } from "lighterhtml";
-import settings from "../settings.json";
+import { html } from "NL1";
+import settings from "./settings.json";
 
 export const renderFooter = html.node`<footer class="footer">
   <div class="tagline">
