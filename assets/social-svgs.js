@@ -1,4 +1,4 @@
-import { html } from "lighterhtml";
+import { html } from "NL1";
 
 /**
  * All of our SVG icons are in this object.
