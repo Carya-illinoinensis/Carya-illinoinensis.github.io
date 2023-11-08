@@ -1,6 +1,6 @@
-import { html } from "lighterhtml";
-import settings from "../settings.json";
-import { SVGs } from "./social-svgs";
+import { html } from "NL1";
+import settings from "./settings.json";
+import { SVGs } from "assets/social-svgs";
 
 function renderSocial(platform) {
   // Check that this platform exists
